@@ -39,10 +39,10 @@
 <p>This project is for my Client Hardware Wale Bhaiya, And Ownership of this Project now belongs to him, For any query contact at hardwarewalebhaiya@gmail.com</p>
 
 <h2>Image</h2>
-![image](https://github.com/user-attachments/assets/a6e37af1-137a-477d-b606-cb92cdc6e280)
-![image](https://github.com/user-attachments/assets/5641fa59-df82-4896-8e05-003bbbea1703)
-![image](https://github.com/user-attachments/assets/cee7506f-ce6d-4057-9a28-a87562502571)
-![image](https://github.com/user-attachments/assets/533ed5db-5f53-4f57-bbf1-a3adfe04e48b)
-![image](https://github.com/user-attachments/assets/f34bf6e1-f82a-4a8f-bb27-c2d3ca4aca67)
-![image](https://github.com/user-attachments/assets/8a9ed751-d964-41c3-a537-ee87768dc76c)
+<img src="https://github.com/user-attachments/assets/a6e37af1-137a-477d-b606-cb92cdc6e280" alt="Image 1">
+<img src="https://github.com/user-attachments/assets/5641fa59-df82-4896-8e05-003bbbea1703" alt="Image 2">
+<img src="https://github.com/user-attachments/assets/cee7506f-ce6d-4057-9a28-a87562502571" alt="Image 3">
+<img src="https://github.com/user-attachments/assets/533ed5db-5f53-4f57-bbf1-a3adfe04e48b" alt="Image 4">
+<img src="https://github.com/user-attachments/assets/f34bf6e1-f82a-4a8f-bb27-c2d3ca4aca67" alt="Image 5">
+<img src="https://github.com/user-attachments/assets/8a9ed751-d964-41c3-a537-ee87768dc76c" alt="Image 6">
 
