@@ -2,6 +2,9 @@
 <h1>Web App for YouTube Links & Hardware Blogs - V2 </h1>
 <p>This is a web application that displays a curated list of YouTube videos and blogs related to hardware. The app also provides an admin feature to configure the content.</p>
 
+<h2>Deployed App Link</h2>
+<p>https://hardwarewalebhaiya.in/</p>
+
 <h2>Features</h2>
 <ul>
   <li>Display YouTube Links: Show a list of YouTube videos related to hardware.</li>
